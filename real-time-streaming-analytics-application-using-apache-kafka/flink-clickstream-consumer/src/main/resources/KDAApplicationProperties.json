@@ -1,0 +1,12 @@
+[
+  {
+    "PropertyGroupId": "FlinkApplicationProperties",
+    "PropertyMap": {
+      "OpenSearchEndpoint": "https://vpc-aos-clickstream-us-east-1-xxxxxxxxxxxxx.us-east-1.es.amazonaws.com",
+      "Region": "us-east-1",
+      "BootstrapServers": "boot-xxxxxxx.xx.kafka-serverless.us-east-1.amazonaws.com:9098",
+      "GroupId": "flink-clickstream-processor",
+      "Topic": "ExampleTopic"
+    }
+  }
+]
