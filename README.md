@@ -8,7 +8,7 @@ Each project demonstrates core software engineering concepts such as multithread
 
 ## 📁 Projects Included
 
-### 🔹 [Distributed-Key-Value-Store](https://github.com/vinaybudideti/JavaProjects/tree/main/DistributedKeyValueStore)
+### 🔹 [Distributed-Key-Value-Store](https://github.com/vinaybudideti/JavaProjects/main/DistributedKeyValueStore)
 - Multithreaded distributed key-value store in Java.
 - Built with socket programming and Java concurrency.
 - Supports GET, PUT, DELETE operations with fault-tolerant simulation.
