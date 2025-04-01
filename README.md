@@ -15,21 +15,21 @@ Each project demonstrates core software engineering concepts such as multithread
 
 ---
 
-### 🔹 [JavaAlgorithms](https://github.com/vinaybudideti/JavaProjects/tree/main/JavaAlgorithms)
+### 🔹 [JavaAlgorithms](https://github.com/vinaybudideti/JavaProjects/tree/main/Java)
 - A clean library of core Java data structures and algorithms.
 - Implements graphs, trees, heaps, linked lists, etc.
 - Designed with reusable object-oriented code principles.
 
 ---
 
-### 🔹 [ecommerce-microservices](https://github.com/vinaybudideti/JavaProjects/tree/main/ecommerce_microservices)
+### 🔹 [ecommerce-microservices](https://github.com/vinaybudideti/JavaProjects/tree/main/ecommerce-microservices)
 - Spring Boot-based microservices architecture.
 - REST APIs for product and order management.
 - Containerized using Docker for scalable deployment.
 
 ---
 
-### 🔹 [real-time-streaming-analytics-application-using-apache-kafka](https://github.com/vinaybudideti/JavaProjects/tree/main/realtime-streaming-analytics-application)
+### 🔹 [real-time-streaming-analytics-application-using-apache-kafka](https://github.com/vinaybudideti/JavaProjects/tree/main/real-time-streaming-analytics-application-using-apache-kafka)
 - Real-time analytics pipeline using Apache Kafka.
 - Java-based producers and consumers process high-throughput data.
 - Built for fault-tolerant and scalable stream handling.
